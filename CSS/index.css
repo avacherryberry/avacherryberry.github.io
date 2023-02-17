@@ -1,15 +1,16 @@
 h1{
     font-family: 'Franklin Gothic Medium';
     text-align: center;
+    font-weight: 800;
+    color: black;
 }
 
 h2{
-    font-weight: 700;
     font-size:small;
 }
 
 h3{
-    font-size: xx-large;
+
 }
 
 h4{
@@ -24,4 +25,14 @@ h4{
 .container col{
     margin:0;
     width:100vh;
+}
+
+p{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium';
+}
+
+img{
+    border-image: fill;
+    border-image-width: 20px;
 }
